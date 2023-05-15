@@ -428,6 +428,7 @@ return(0);
 ## Output:
 ```
 1.Block.x=1023 image
+![image](https://github.com/25tharunkumar/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/123470785/69beb2ed-e165-4eec-b848-84f585c8b652)
 
 2.Block.x=1024 image
 
