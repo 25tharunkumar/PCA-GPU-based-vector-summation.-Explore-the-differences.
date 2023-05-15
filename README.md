@@ -434,6 +434,8 @@ return(0);
 ![image](https://github.com/25tharunkumar/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/123470785/da56d5df-0235-47ba-b1d4-9484105b55b6)
 
 3.Block.x=256 image
+![image](https://github.com/25tharunkumar/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/123470785/ed9ccf5b-a913-44cb-8131-87d33fd9e4ba)
+
 ```
 ## Result:PCA-GPU-based-vector-summation.-Explore-the-differences.
 i) Thus the program to compare the execution time and result of summing two arrays using CUDA programming by setting block.x = 1023 and block.x = 1024 has been successfully implemented and verified.
