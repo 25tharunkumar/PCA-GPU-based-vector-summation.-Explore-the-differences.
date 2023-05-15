@@ -431,6 +431,7 @@ return(0);
 ![image](https://github.com/25tharunkumar/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/123470785/69beb2ed-e165-4eec-b848-84f585c8b652)
 
 2.Block.x=1024 image
+![image](https://github.com/25tharunkumar/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/123470785/da56d5df-0235-47ba-b1d4-9484105b55b6)
 
 3.Block.x=256 image
 ```
